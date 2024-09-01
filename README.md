@@ -14,3 +14,7 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 5. Waits: Implements explicit waits to handle synchronization issues in web elements.
 6. Maven Integration: Manages dependencies and test execution.
 7. GitHub Repository: Enables version control and collaboration.
+
+## Tech Stack
+*Java
+
