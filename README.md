@@ -41,4 +41,17 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 + In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
 + Add Selenium Dependency: Open your pom.xml file
 + Save and Update the Maven Project
+### Step 4- Download the project
+Create a new folder and navigate to it in the command prompt.
+### Step 5-Run the Test
+
+# Attachments
+
+![Screenshot (215)](https://github.com/user-attachments/assets/1b53e175-ae6e-4a06-a5c1-3b19b35ca875)
+![Screenshot (218)](https://github.com/user-attachments/assets/e292a2e2-a674-4706-a7a2-a8bae30729c1)
+
+## Recommendation & Suggestion
+* Improve the UI of Homepage make it User friendly
+# Feedback
+If you have any feedback, Please reach out me at vaishnavilakhore@gmail.com
    
