@@ -7,10 +7,10 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 
 ## Key Features
 
-*Page Object Model: Enhances test maintenance and reduces code duplication by separating the test logic from the UI elements.*
-*Assertions: Validates the test results to ensure the application behaves as expected.*
-*Screenshots: Captures screenshots for test failures.*
-*Property File Reading: Fetches configuration data like URLs, browser types, and credentials dynamically.*
-*Waits: Implements explicit waits to handle synchronization issues in web elements.*
-*Maven Integration: Manages dependencies and test execution.*
-*GitHub Repository: Enables version control and collaboration.*
+1. Page Object Model: Enhances test maintenance and reduces code duplication by separating the test logic from the UI elements.
+2. Assertions: Validates the test results to ensure the application behaves as expected.
+3. Screenshots: Captures screenshots for test failures.
+4. Property File Reading: Fetches configuration data like URLs, browser types, and credentials dynamically.
+5. Waits: Implements explicit waits to handle synchronization issues in web elements.
+6. Maven Integration: Manages dependencies and test execution.
+7. GitHub Repository: Enables version control and collaboration.
