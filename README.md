@@ -12,4 +12,19 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 
 ## Tech Stack
  *  Java
+ *  HTML
+ *  CSS
+## Version Control
+ * Git
+ * Github
+## Operating System And Browser
+ * Chrome
+## Application Under Test
+[Naptool.com](https://www.naaptol.com/)
+# Scope
+## Feature to be Tested
+* Applying filters
+* Add to cart
+* Search by text
+* Compare the products
    
