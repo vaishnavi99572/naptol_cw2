@@ -16,5 +16,7 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 7. GitHub Repository: Enables version control and collaboration.
 
 ## Tech Stack
-*Java
+ *  Java
+ *  HTML
+ *  CSS
 
