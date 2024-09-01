@@ -5,15 +5,10 @@
 ## Objective
 This project automates the 'Beauty & Wellness' section on the Naaptol website using the Page Object Model (POM) design pattern. It includes test cases written in TestNG and integrates with Maven for build management and Extent Reports for test reporting.
 
-## Key Features
-
-1. Page Object Model: Enhances test maintenance and reduces code duplication by separating the test logic from the UI elements.
-2. Assertions: Validates the test results to ensure the application behaves as expected.
-3. Screenshots: Captures screenshots for test failures.
-4. Property File Reading: Fetches configuration data like URLs, browser types, and credentials dynamically.
-5. Waits: Implements explicit waits to handle synchronization issues in web elements.
-6. Maven Integration: Manages dependencies and test execution.
-7. GitHub Repository: Enables version control and collaboration.
+## Key Objectives
+1. Automate Web Interactions: Streamline testing by automating the key user interactions in the Beauty & Wellness category.
+2. Enhance Test Maintenance: Use the Page Object Model to ensure easy maintenance and scalability of test scripts.
+3. Provide Detailed Reporting: Implement Extent Reports for clear and comprehensive test results.
 
 ## Tech Stack
  *  Java
@@ -41,7 +36,7 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 ### Step 2- Install an IDE
 * Choose an IDE like IntelliJ IDEA or Eclipse for Java development
 ### Step 3- Set Up Maven Project
-* Create a New Maven Project
++ Create a New Maven Project
 + In IntelliJ IDEA, go to File -> New -> Project, select Maven and proceed.
 + In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
 + Add Selenium Dependency: Open your pom.xml file
@@ -53,6 +48,14 @@ Create a new folder and navigate to it in the command prompt.
 # Attachments
 
 ![Screenshot (215)](https://github.com/user-attachments/assets/1b53e175-ae6e-4a06-a5c1-3b19b35ca875)
+![Screenshot (218)](https://github.com/user-attachments/assets/e292a2e2-a674-4706-a7a2-a8bae30729c1)
+
+## Recommendation & Suggestion
+* Improve the UI of Homepage make it User friendly
+# Feedback
+If you have any feedback, Please reach out me at vaishnavilakhore@gmail.com
+  
+
 
 
 
