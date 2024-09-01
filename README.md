@@ -19,8 +19,12 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
  *  Java
  *  HTML
  *  CSS
-## Version Contro
+## Version Control
  * Git
  * Github
+## Operating System And Browser
+ * Chrome
+## Application Under Test
+[Naptool.com](https://www.naaptol.com/)
    
 
