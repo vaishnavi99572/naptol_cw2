@@ -32,5 +32,20 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 * Add to cart
 * Search by text
 * Compare the products
+## Testing types and Methodologies
+* Fuctional Testing
+* Integration testing
+# Selenium Installation
+### Step 1- Installation of Selenium for Java
+* Ensure you have JDK installed on your machine. You can download it from Oracle's official website.
+### Step 2- Install an IDE
+* Choose an IDE like IntelliJ IDEA or Eclipse for Java development
+### Step 3- Set Up Maven Project
+*Create a New Maven Project
+In IntelliJ IDEA, go to File -> New -> Project, select Maven and proceed.
+In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
+
+
+  
    
 
