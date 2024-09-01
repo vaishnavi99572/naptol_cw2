@@ -42,8 +42,8 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 * Choose an IDE like IntelliJ IDEA or Eclipse for Java development
 ### Step 3- Set Up Maven Project
 *Create a New Maven Project
-In IntelliJ IDEA, go to File -> New -> Project, select Maven and proceed.
-In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
++ In IntelliJ IDEA, go to File -> New -> Project, select Maven and proceed.
++ In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
 
 
   
