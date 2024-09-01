@@ -41,9 +41,17 @@ This project automates the 'Beauty & Wellness' section on the Naaptol website us
 ### Step 2- Install an IDE
 * Choose an IDE like IntelliJ IDEA or Eclipse for Java development
 ### Step 3- Set Up Maven Project
-*Create a New Maven Project
+* Create a New Maven Project
 + In IntelliJ IDEA, go to File -> New -> Project, select Maven and proceed.
 + In Eclipse, go to File -> New -> Project, select Maven -> Maven Project.
++ Add Selenium Dependency: Open your pom.xml file
++ Save and Update the Maven Project
+### Step 4- Download the project
+Create a new folder and navigate to it in the command prompt.
+### Step 5-Run the Test
+
+# Attachments
+
 
 
   
